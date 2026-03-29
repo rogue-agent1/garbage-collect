@@ -1,9 +1,13 @@
 # Garbage Collector Simulator
 
-Garbage Collector Simulator — zero-dependency Python implementation.
+Garbage Collector Simulator — zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 garbage_collect.py
+python3 garbage_collect.py --help
 ```
+
+## License
+
+MIT
