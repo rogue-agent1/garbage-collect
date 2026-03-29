@@ -1,13 +1,9 @@
-# Garbage Collect
+# Garbage Collector Simulator
 
-Mark-and-sweep garbage collector simulation.
+Garbage Collector Simulator — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
 python3 garbage_collect.py
 ```
-
-## License
-
-MIT
